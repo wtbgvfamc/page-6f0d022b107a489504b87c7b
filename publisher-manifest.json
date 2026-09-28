@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "92520c5095884067c1f59ea4",
+  "owner": "wtbgvfamc",
+  "repo": "page-6f0d022b107a489504b87c7b",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6f0d022b107a489504b87c7b",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6bba834d4e9fd32ad7864081e3d2d6802771767ba0f989eefe24842a54bf1724",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云机场提供专业VPN加速服务，多款套餐可选，安全稳定，支持多设备。立即下载客户端，畅享全球网络加速体验。",
+          "AI_DESCRIPTION": "大哥云机场提供专业VPN加速服务，多款套餐可选，安全稳定，支持多设备。立即下载客户端，畅享全球网络加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n    :root {\n        --gray: #f1f5f9;\n        --purple: #7c3aed;\n        --text: #1e2937;\n    }\n    body {\n        font-family: system-ui, -apple-system, sans-serif;\n        margin: 0;\n        padding: 0;\n        background: var(--gray);\n        color: var(--text);\n        line-height: 1.6;\n    }\n    header {\n        background: white;\n        box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n    }\n    nav {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        padding: 1rem 5%;\n        max-width: 1200px;\n        margin: 0 auto;\n    }\n    .logo {\n        font-size: 1.5rem;\n        font-weight: bold;\n        color: var(--purple);\n    }\n    .hero {\n        background: linear-gradient(135deg, #f8fafc 0%, #e0e7ff 100%);\n        padding: 8rem 5% 4rem;\n        text-align: center;\n        position: relative;\n    }\n    .hero h1 {\n        font-size: 3.5rem;\n        margin-bottom: 1rem;\n        color: #1e2937;\n    }\n    .hero p {\n        font-size: 1.5rem;\n        margin-bottom: 2rem;\n        color: #475569;\n    }\n    .btn {\n        background: var(--purple);\n        color: white;\n        padding: 1rem 2rem;\n        border: none;\n        border-radius: 50px;\n        font-size: 1.1rem;\n        cursor: pointer;\n        text-decoration: none;\n        display: inline-block;\n    }\n    .btn:hover {\n        background: #6d28d9;\n    }\n    .section {\n        padding: 4rem 5%;\n        max-width: 1200px;\n        margin: 0 auto;\n    }\n    h2 {\n        font-size: 2.2rem;\n        margin-bottom: 2rem;\n        color: #1e2937;\n    }\n    .features {\n        display: grid;\n        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n        gap: 2rem;\n    }\n    .feature {\n        background: white;\n        padding: 2rem;\n        border-radius: 12px;\n        box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n    }\n    .plans {\n        display: grid;\n        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n        gap: 2rem;\n    }\n    .plan {\n        background: white;\n        padding: 2rem;\n        border-radius: 12px;\n        text-align: center;\n        box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n    }\n    .plan.featured {\n        border: 3px solid var(--purple);\n        transform: scale(1.05);\n    }\n    .plan h3 {\n        font-size: 1.5rem;\n        margin-bottom: 1rem;\n    }\n    .price {\n        font-size: 2rem;\n        font-weight: bold;\n        color: var(--purple);\n        margin: 1rem 0;\n    }\n    details {\n        background: white;\n        margin: 1rem 0;\n        border-radius: 8px;\n        overflow: hidden;\n        box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n    }\n    summary {\n        padding: 1rem 1.5rem;\n        font-weight: bold;\n        cursor: pointer;\n        background: #f8fafc;\n    }\n    details[open] summary {\n        background: #e0e7ff;\n    }\n    .faq-content {\n        padding: 1.5rem;\n        background: white;\n    }\n    footer {\n        background: #1e2937;\n        color: white;\n        padding: 3rem 5% 2rem;\n        text-align: center;\n    }\n    .links {\n        display: flex;\n        justify-content: center;\n        gap: 2rem;\n        margin-bottom: 2rem;\n    }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">大哥云</div>\n            <div>\n                <a href=\"#intro\">简介</a>\n                <a href=\"#scenarios\">场景</a>\n                <a href=\"#guide\">指南</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#plans\">套餐</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <section class=\"hero\">\n            <h1>大哥云</h1>\n            <p>高速稳定VPN加速器</p>\n            <p>安全访问全球内容，畅享无忧上网</p>\n            <a href=\"#plans\" class=\"btn\">立即选择客户端</a>\n        </section>\n        <section id=\"intro\" class=\"section\">\n            <h2>品牌简介</h2>\n            <p>大哥云致力于打造安全、快速稳定的网络加速服务，为全球用户提供优质的VPN解决方案。无论您是学生、职场人士还是企业用户，都能找到适合的套餐。</p>\n        </section>\n        <section id=\"scenarios\" class=\"section\">\n            <h2>使用场景</h2>\n            <div class=\"features\">\n                <div class=\"feature\">\n                    <h3>海外游玩</h3>\n                    <p>突破地理限制，畅享国际视频和社交平台内容。</p>\n                </div>\n                <div class=\"feature\">\n                    <h3>远程办公</h3>\n                    <p>稳定连接企业内网，高效完成工作任务。</p>\n                </div>\n                <div class=\"feature\">\n                    <h3>游戏加速</h3>\n                    <p>IPLC专线优化，降低延迟，提升游戏体验。</p>\n                </div>\n                <div class=\"feature\">\n                    <h3>隐私保护</h3>\n                    <p>加密传输，保护您的上网数据安全。</p>\n                </div>\n            </div>\n        </section>\n        <section id=\"guide\" class=\"section\">\n            <h2>操作指南</h2>\n            <ol>\n                <li>访问官网下载对应操作系统的客户端。</li>\n                <li>安装完成后使用邮箱注册账号。</li>\n                <li>登录后选择适合的套餐。</li>\n                <li>选择节点连接服务器，开始加速上网。</li>\n            </ol>\n        </section>\n        <section id=\"faq\" class=\"section\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>大哥云是什么？</summary>\n                <div class=\"faq-content\">\n                    <p>大哥云是一款专业的VPN加速器，提供高速稳定的网络连接，帮助用户安全访问被屏蔽的内容，保障上网隐私。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <div class=\"faq-content\">\n                    <p>基础版适合个人轻度使用，旗舰版支持更多流量和优化功能，团队版适合企业多设备需求。</p>\n                </div>\n            </details>\n            <details>\n                <summary>如何下载客户端？</summary>\n                <div class=\"faq-content\">\n                    <p>在官方网站的下载页面选择您的操作系统，下载并安装即可。</p>\n                </div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"faq-content\">\n                    <p>支持Windows、macOS、iOS、Android等多种主流设备。</p>\n                </div>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <div class=\"faq-content\">\n                    <p>旗舰版及以上套餐提供7x24优先工单支持，基础版有在线客服。</p>\n                </div>\n            </details>\n        </section>\n        <section id=\"plans\" class=\"section\">\n            <h2>选择您的套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"clients\" class=\"section\">\n            <h2>我们的客户</h2>\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 大哥云 版权所有 | 友情链接</p>\n        <div class=\"links\">\n        </div>\n        <p>官网：https://dagekun.com</p>\n    </footer>\n\n",
+          "hash": "19706bdcd2b031bd2430e61eb4e7449aef031802e776a4972e797e19727a3c34",
+          "seo": {
+            "title": "大哥云机场 - 高速稳定VPN加速器 | 客户端下载",
+            "keywords": "大哥云机场,VPN加速器,客户端下载,网络加速,大哥云",
+            "description": "大哥云机场提供专业VPN加速服务，多款套餐可选，安全稳定，支持多设备。立即下载客户端，畅享全球网络加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "smalldolphin.cn",
+    "host": "m.smalldolphin.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "smalldolphin.cn",
+      "url": "https://smalldolphin.cn/",
+      "label": "Dogess",
+      "apex": "smalldolphin.cn",
+      "kind": null,
+      "identity": "qjcuyyd/page-39f60a6fda6840b1e92df788"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2c3691174025d9405b2f7e8853a1307d656be202e3de9d38a1c590235205538d",
+    "sitemap.xml": "4a8ed6701c300bf8ac6a3e2c874e6424e11ec96acb86e943be070a484ba23b6b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "83fa8c32e179fb526fdfb2f2209fc6c9b34f36b1c483c66e5afb663f910755fa",
+    "robots.txt": "b30ba3e8ec8d90d9dc5f444c5ecf6b52bd1498464f4e13d9b9db6546bc33e676",
+    "640f53485175478ffcdabd6817af3f25.txt": "34d91b744a7dd2b7bac7fb3c106344570cfb4cea2b6a34812634ff02ee410db4"
+  },
+  "revision": "7e80158a8bd1c5fdc581861290cde9caa619e160abe065df3d60369b1cae505e"
+}
